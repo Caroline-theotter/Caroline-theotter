@@ -1,3 +1,10 @@
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/85490224/146217740-3bd39412-d088-463b-a2d2-de9a66683948.png" alt=”my banner”>
+
+</p>
+
 ### Hi there 👋
 
 <!--
