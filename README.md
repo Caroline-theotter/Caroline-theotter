@@ -1,23 +1,19 @@
 
 <p align="center">
 
-<img width="700" height="150" src="https://user-images.githubusercontent.com/85490224/146217740-3bd39412-d088-463b-a2d2-de9a66683948.png" alt="my banner">
+<img width="700" height="120" src="https://user-images.githubusercontent.com/85490224/146217740-3bd39412-d088-463b-a2d2-de9a66683948.png" alt="my banner">
 
 </p>
 
 ### Hi there 👋
 
-<!--
-**Caroline-theotter/Caroline-theotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
