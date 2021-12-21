@@ -34,4 +34,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-theotter&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)](https://github.com/Caroline-theotter)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)](https://github.com/Caroline-theotter) -->
