@@ -32,6 +32,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-theotter&theme=dracula_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-theotter&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)](https://github.com/Caroline-theotter)
