@@ -13,7 +13,7 @@
 
 ### Connect with me 🤝
 
-<a href="https://www.linkedin.com/in/caroline-guedj/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/caroline-guedj/"><img align=”left” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### 💻 Technical skills on learning 
 
@@ -23,7 +23,7 @@
 
 ### Frameworks, Platforms and Libraries
 
-[Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Design
 
@@ -33,8 +33,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-theotter&theme=dracula_icons=true)](https://github.com/Caroline-theotter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-theotter&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)](https://github.com/Caroline-theotter)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-theotter&layout=compact)](https://github.com/Caroline-theotter/github-readme-stats)
